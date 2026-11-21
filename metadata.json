@@ -1,0 +1,6 @@
+{
+  "name": "Followthrough",
+  "description": "Meeting commitment extraction and execution tracker powered by the BluesMinds API with deterministic pre-processing, Zod-validated structured outputs, and conflict detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
